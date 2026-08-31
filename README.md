@@ -4,10 +4,10 @@ Repositorio de códigos, notebooks y bases de datos para la materia optativa de 
 
 ## Descripción
 
-Este repositorio contiene los trabajos, proyectos y análisis realizados durante el semestre en la materia optativa de Aprendizaje Profundo II. Aquí se subirán de forma progresiva:
+Este repositorio contiene los trabajos realizados durante el semestre en la materia optativa de Aprendizaje Profundo II. Aquí se subirán de forma progresiva:
 
-- **Códigos** implementados en Python
-- **Notebooks de Jupyter** con análisis y experimentos
+
+- **Notebooks de Jupyter** 
 - **Bases de datos** utilizadas en los proyectos
 - **Visualizaciones** de resultados
 
@@ -34,12 +34,12 @@ Aprendizaje_Profundo_II/
 
 El proyecto utiliza las siguientes librerías de Python:
 
-- **Jupyter Notebook** - Entorno interactivo para análisis
-- **Pandas** - Manipulación de datos
-- **NumPy** - Computación numérica
-- **Matplotlib** - Visualización de datos
-- **Seaborn** - Gráficos estadísticos
-- **Scikit-learn** - Machine learning
+- **Jupyter Notebook** 
+- **Pandas** 
+- **NumPy** 
+- **Matplotlib** 
+- **Seaborn** 
+- **Scikit-learn** 
 
 ### Instalación de dependencias
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
    cd Aprendizaje_Profundo_II
    ```
 
-2. **Crear un entorno virtual (recomendado):**
+2. **Crear un entorno virtual:**
    ```bash
    python -m venv venv
    source venv/bin/activate  # En Windows: venv\Scripts\activate
@@ -84,7 +84,7 @@ Este repositorio se encuentra bajo la licencia especificada en el archivo [LICEN
 
 ## Contacto
 
-Para dudas o comentarios sobre este trabajo, puedes contactar al autor a través del repositorio.
+Para dudas o comentarios sobre este trabajo, puedes contactar a través del repositorio.
 
 ---
 
