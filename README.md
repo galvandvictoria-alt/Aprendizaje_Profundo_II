@@ -2,20 +2,20 @@
 
 Repositorio de códigos, notebooks y bases de datos para la materia optativa de **Aprendizaje Profundo II**.
 
-## 📋 Descripción
+## Descripción
 
 Este repositorio contiene los trabajos, proyectos y análisis realizados durante el semestre en la materia optativa de Aprendizaje Profundo II. Aquí se subirán de forma progresiva:
 
-- 📊 **Códigos** implementados en Python
-- 📓 **Notebooks de Jupyter** con análisis y experimentos
-- 🗂️ **Bases de datos** utilizadas en los proyectos
-- 📈 **Visualizaciones** de resultados
+- **Códigos** implementados en Python
+- **Notebooks de Jupyter** con análisis y experimentos
+- **Bases de datos** utilizadas en los proyectos
+- **Visualizaciones** de resultados
 
-## 👤 Autor
+## Autor
 
 - **Victoria Galván** 
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 Aprendizaje_Profundo_II/
@@ -30,7 +30,7 @@ Aprendizaje_Profundo_II/
 └── README.md                     # Este archivo
 ```
 
-## 📦 Requisitos
+## Requisitos
 
 El proyecto utiliza las siguientes librerías de Python:
 
@@ -47,7 +47,7 @@ El proyecto utiliza las siguientes librerías de Python:
 pip install -r requirements.txt
 ```
 
-## 🚀 Cómo usar este repositorio
+## Cómo usar este repositorio
 
 1. **Clonar el repositorio:**
    ```bash
@@ -71,18 +71,18 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-## 📚 Datasets
+## Datasets
 
 Para información detallada sobre los datasets utilizados, consulta el archivo [docs/README.md](docs/README.md).
 
 ### Datasets incluidos:
 - **Welltory PPG Dataset** - Señales de fotopletismografía (PPG) capturadas con Welltory
 
-## 📄 Licencia
+## Licencia
 
 Este repositorio se encuentra bajo la licencia especificada en el archivo [LICENSE](LICENSE). Consulta el archivo para más detalles.
 
-## 📬 Contacto
+## Contacto
 
 Para dudas o comentarios sobre este trabajo, puedes contactar al autor a través del repositorio.
 
