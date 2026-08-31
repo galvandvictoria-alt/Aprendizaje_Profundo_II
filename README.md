@@ -1,49 +1,21 @@
-Repositorio de trabajo para la materia optativa: Aprendizaje profundo II. Contiene los notebooks de Jupyter desarrollados a lo largo del semestre. 
+# Welltory PPG Dataset
 
-##Estructura del repositorio
-.
-├── assets/ # Imágenes, recursos gráficos usados en los notebooks
-├── docs/ # Bases de datos / datasets utilizados
-├── src/ # Notebooks y código de las tareas
-├── requirements.txt
-└── LICENSE
+Este dataset fue obtenido del repositorio original de Welltory y se incluye aquí
+únicamente con fines académicos, en el marco de mi materia optativa.
 
-##Requisitos
-- Python 3.10+
-- Jupyter Notebook o JupyterLab
+**Fuente original:** https://github.com/Welltory/welltory-ppg-dataset
 
-## Instalación
-```bash
-python -m venv venv
-source venv/bin/activate #Linux
-cat > README.md << 'EOF'
-Repositorio de trabajo para la materia optativa: Aprendizaje profundo II. Contiene los notebooks de Jupyter desarrollados a lo largo del semestre. 
+**Descripción:** Contiene 21 registros de señales PPG (obtenidas por cámara de
+smartphone usando la app Welltory) con intervalos RR de referencia, capturados
+simultáneamente con una banda Polar H10. Los datos provienen de 13 voluntarios
+sanos de entre 25 y 35 años. Cada carpeta "subject_XX" contiene los archivos
+PPG.csv y RR.txt correspondientes a esa persona.
 
-##Estructura del repositorio
-.
-├── assets/ # Imágenes, recursos gráficos usados en los notebooks
-├── docs/ # Bases de datos / datasets utilizados
-├── src/ # Notebooks y código de las tareas
-├── requirements.txt
-└── LICENSE
+**Licencia:** Creative Commons Attribution (CC BY) 4.0
 
-##Requisitos
-- Python 3.10+
-- Jupyter Notebook o JupyterLab
+**Cita requerida:**
+Neshitov, A.; Tyapochkin, K.; Smorodnikova, E.; Pravdin, P. Wavelet Analysis and
+Self-Similarity of Photoplethysmography Signals for HRV Estimation and Quality
+Assessment. Sensors 2021, 21, 6798. https://doi.org/10.3390/s21206798
 
-## Instalación
-```bash
-python -m venv venv
-source venv/bin/activate # Linux
-
-venv\Scripts/activate # Windows
-
-pip install -r requirements.txt
-jupyter notebook
-```
-
-## Contenido
-Tarea_1_P1: 1 de Septiembre de 2026.
-
-## Autor
-Galvan Delgadillo Victoria
+**Uso en este repositorio:** exclusivamente académico, sin fines de lucro.
