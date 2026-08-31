@@ -1,0 +1,32 @@
+#Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+
+#Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+#Variables de entorno 
+.env
+
+#Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#Editores
+.vscode/
+.idea/
+
+#Datasets
+# docs/*.csv
+# docs/*.xlsx
